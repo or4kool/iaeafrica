@@ -1,0 +1,92 @@
+.top-header {
+  background: #202020;
+  padding-top: 7px;
+  padding-bottom: 5px;
+  display: -webkit-box;
+  display: flex;
+}
+
+.top-header .top-header-links {
+  float: right;
+}
+
+.top-header .top-header-links .top-link-first {
+  float: left;
+  margin-top: 6px;
+}
+
+.top-header .top-header-links li {
+  display: inline-block;
+  margin-right: 30px;
+  text-transform: uppercase;
+  font-size: 15px;
+  color: #8a8a8a;
+}
+
+.top-header .top-header-links .top-header-give {
+  float: left;
+}
+
+.top-header .top-header-links .top-header-give span {
+  float: left;
+  display: block;
+  margin-right: 30px;
+}
+
+.top-header .top-header-links .top-header-give .givers {
+  background: #3a2f3d;
+  padding: 2px 5px;
+  border-radius: 0px;
+  border: 2px solid #f1a130;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.top-header .top-header-links .top-header-give i {
+  color: #dfdfdf;
+  font-size: 20px;
+  -webkit-transform: translateY(3px) rotateY(180deg);
+  transform: translateY(3px) rotateY(180deg);
+}
+
+.banner-row {
+  height: 664px;
+}
+
+.banner-row .banner img {
+  width: 100%;
+  position: absolute;
+  height: auto;
+}
+
+.logo-area {
+  background: url(../../img/bgbg.jpg);
+  background-repeat: repeat-x;
+  padding: 30px 0px;
+}
+
+.logo-area .logo-inner {
+  text-align: center;
+}
+
+.logo-area .logo-inner img {
+  width: 260px;
+}
+
+.we-are {
+  border-top: 10px solid #676767;
+}
+
+.we-are .first-header {
+  text-align: center;
+  font-size: 37px;
+  background: rebeccapurple;
+  margin: 0 auto;
+  width: 300px;
+  float: none;
+  border-radius: 0px 0px 50px 50px;
+  color: #fff;
+  text-transform: capitalize;
+}
+
+/*# sourceMappingURL=style.css.map */

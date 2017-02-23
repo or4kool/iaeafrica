@@ -1,0 +1,97 @@
+
+$top-header-color: #202020;
+$give-btn-color: #3a2f3d;
+$give-btn-border-color: #f1a130;
+
+.top-header{
+	
+	background: $top-header-color;
+	padding-top: 7px;
+	padding-bottom: 5px;
+	display: flex;
+
+	.top-header-links{
+		
+		float: right;
+
+
+	.top-link-first{
+		float: left;
+		margin-top: 6px;
+	}
+
+	li{
+		display: inline-block;
+		margin-right: 30px;
+		text-transform: uppercase;
+		font-size: 15px;
+		color: #8a8a8a;
+	}
+
+	.top-header-give{
+		float: left;
+
+		span{
+			float: left;
+			display: block;
+			margin-right: 30px;
+		}
+
+		.givers{
+		    background: $give-btn-color;
+		    padding: 2px 5px;
+		    border-radius: 0px;
+		    border: 2px solid $give-btn-border-color;
+		    font-size: 12px;
+		    text-transform: uppercase;
+		}
+
+		i{
+			color: #dfdfdf;
+			font-size: 20px;
+		    transform: translateY(3px) rotateY(180deg);
+		}
+		}
+	}	
+
+}
+
+.banner-row{
+	height: 664px;
+	.banner{
+		img{
+			width: 100%;
+			position: absolute;
+			height: auto;
+		}
+	}
+}
+
+.logo-area{
+	
+	background: url(../../img/bgbg.jpg);
+	background-repeat: repeat-x;
+	padding: 30px 0px;
+
+	.logo-inner{
+		text-align: center;
+		img{
+			width: 260px;
+		}
+	}
+}
+
+.we-are{
+	border-top: 10px solid #676767;
+	.first-header{
+		text-align: center;
+	    font-size: 37px;
+	    background: rebeccapurple;
+	    margin: 0 auto;
+	    width: 300px;
+	    float: none;
+	    border-radius: 0px 0px 50px 50px;
+	    color: #fff;
+	    text-transform: capitalize;
+	}
+}	
