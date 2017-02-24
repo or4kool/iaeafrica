@@ -77,6 +77,14 @@
   border-top: 10px solid #676767;
 }
 
+.we-are .who-are-round {
+  margin-bottom: 20px;
+}
+
+.we-are .who-sect {
+  margin-top: 80px;
+}
+
 .we-are .first-header {
   text-align: center;
   font-size: 37px;
@@ -87,6 +95,29 @@
   border-radius: 0px 0px 50px 50px;
   color: #fff;
   text-transform: capitalize;
+}
+
+.we-are .are-icon {
+  border-radius: 50px;
+  width: 60px;
+  margin-top: 30px;
+}
+
+.we-are .are-houser-right {
+  text-align: right;
+}
+
+.we-are .are-houser-left {
+  text-align: left;
+}
+
+.we-are .icon-houser {
+  @xtends .no-padding;
+  text-align: center;
+}
+
+.no-padding, .we-are .who-sect, .we-are .are-houser-right, .we-are .are-houser-left {
+  padding: 0px !important;
 }
 
 /*# sourceMappingURL=style.css.map */

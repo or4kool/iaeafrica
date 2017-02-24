@@ -51,50 +51,50 @@
 
 	<div class="row we-are">
 		<div class="container">
-			<div class="col-md-12">
+			<div class="col-md-12 who-are-round">
 				<p class="first-header">who we are</p>
 			</div>
 			<div class="col-md-6">
-				<div class="col-md-12">
-					<div class="">
+				<div class="col-md-12 who-sect">
+					<div class="col-md-9 are-houser-right">
 						<h2>Our company</h2>
 						<p>we are an educational social enterprise start-up company focused on making education better and young people more employable in Africa.</p>
 						<a><p>read more <span>&rarr;</span></p></a>
 					</div>
-					<div class="">
-						<img src="" />
+					<div class="col-md-3 icon-houser">
+						<img src="img/home.jpg" class="are-icon"/>
 					</div>
 				</div>
-				<div class="col-md-12">
-					<div class="">
+				<div class="col-md-12 who-sect">
+					<div class="col-md-9 are-houser-right">
 						<h2>Our mission</h2>
 						<p>To improve the quality, employability and entrepreneurship skills of the current and next generations of African</p>
 						<a><p>read more <span>&rarr;</span></p></a>
 					</div>
-					<div class="">
-						<img src="" />
+					<div class="col-md-3 icon-houser">
+						<img src="img/star.jpg" class="are-icon"/>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-6">
-				<div class="col-md-12">
-					<div class="">
+				<div class="col-md-12 who-sect">
+					<div class="col-md-3 icon-houser">
+						<img src="img/heart.jpg" class="are-icon"/>
+					</div>
+					<div class="col-md-9 are-houser-left">
 						<h2>Our Approach</h2>
 						<p>Eduaction systems in Sub Saharan Africa have not lived up to expectation. Education, suposed to be an enabler for civilization and economic</p>
 						<a><p>read more <span>&rarr;</span></p></a>
 					</div>
-					<div class="">
-						<img src="" />
-					</div>
 				</div>
-				<div class="col-md-12">
-					<div class="">
+				<div class="col-md-12 who-sect">
+					<div class="col-md-3 icon-houser">
+						<img src="img/info.jpg" class="are-icon"/>
+					</div>
+					<div class="col-md-9 are-houser-left">
 						<h2>Our Vision</h2>
 						<p>A world where all Africans have access to quality education at all (primary, secondary and tertiary) levels</p>
 						<p>read more <span>&rarr;</span></p>
-					</div>
-					<div class="">
-						<img src="" />
 					</div>
 				</div>
 			</div>

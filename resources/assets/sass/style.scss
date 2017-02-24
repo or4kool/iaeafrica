@@ -83,6 +83,16 @@ $give-btn-border-color: #f1a130;
 
 .we-are{
 	border-top: 10px solid #676767;
+
+	.who-are-round{
+		margin-bottom: 20px;
+
+	}
+
+	.who-sect{
+		margin-top: 80px;
+		@extend .no-padding;
+	}
 	.first-header{
 		text-align: center;
 	    font-size: 37px;
@@ -94,4 +104,29 @@ $give-btn-border-color: #f1a130;
 	    color: #fff;
 	    text-transform: capitalize;
 	}
-}	
+
+	.are-icon{
+		border-radius: 50px;
+		width: 60px;
+		margin-top: 30px;
+	}
+
+	.are-houser-right{
+		@extend .no-padding;
+		text-align: right;
+	}
+
+	.are-houser-left{
+		@extend .no-padding;
+		text-align: left;
+	}
+
+	.icon-houser{
+		@xtends .no-padding;
+		text-align: center;
+	}
+}
+
+.no-padding{
+	padding: 0px !important;
+}
