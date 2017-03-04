@@ -101,114 +101,117 @@
 		</div>
 	</div>
 
-	<div class="row">
+	<div class="row iaenews">
 		<div class="container">
 			<div class="col-md-12">
-				<h2>IAENews</h2>
+				<h2 class="iaeheader">IAENews</h2>
 				<div class="col-md-4">
-					<img src="" />
-					<p>To improve the quality, employability and entrepreneurship skills of the current and next generations of African</p>
-					<a><p>read more <span>&rarr;</span></p></a>
+					<img src="img/post1.jpg" />
+					<p class="excerpt">To improve the quality, employability and entrepreneurship skills of the current and next generations of African</p>
+					<a href="#"><p class="read-more">read more <span>&rarr;</span></p></a>
 				</div>
 				<div class="col-md-4">
-					<img src="" />
-					<p>To improve the quality, employability and entrepreneurship skills of the current and next generations of African</p>
-					<a><p>read more <span>&rarr;</span></p></a>
+					<img src="img/post2.jpg" />
+					<p class="excerpt">To improve the quality, employability and entrepreneurship skills of the current and next generations of African</p>
+					<a href="#"><p class="read-more">read more <span>&rarr;</span></p></a>
 				</div>
 				<div class="col-md-4">
-					<img src="" />
-					<p>To improve the quality, employability and entrepreneurship skills of the current and next generations of African</p>
-					<a><p>read more <span>&rarr;</span></p></a>
+					<img src="img/post1.jpg" />
+					<p class="excerpt">To improve the quality, employability and entrepreneurship skills of the current and next generations of African</p>
+					<a href="#"><p class="read-more">read more <span>&rarr;</span></p></a>
 				</div>
 			</div>
 		</div>
 	</div>
 
-	<div class="row">
+	<div class="row social-area">
 		<div class="container">
 			<div class="col-md-12">
-				<h2>IAEASocial</h2>
-				<div>
-					<span><img src="" /></span>
-					<span><img src="" /></span>
-					<span><img src="" /></span>
-					<span><img src="" /></span>
+				<h2 class="iaeheader">IAEASocial</h2>
+				<div class="social-icon">
+					<span><img src="img/facebook.png" /></span>
+					<span><img src="img/linkd.png" /></span>
+					<span><img src="img/twitter.png" /></span>
+					<span><img src="img/plus.png" /></span>
 				</div>
 			</div>
 		</div>
 	</div>
 
-	<div class="row">
+	<div class="row volunteers-area">
 		<div class="container">
 			<div class="col-md-12">
-				<div class="col-md-7">
-					<span>
-					<p>what difference can one african make?</br>what differeence can one STEM CLUB make?</br>what difference can YOU make?</p></span>
-					<span><img src="" /></span>
+				<div class="col-md-8">
+					<div class="col-md-7 volunteer-diff"><p>what difference can one african make?</br>what differeence can one STEM CLUB make?</br>what difference can YOU make?</p></div>
+					<div class="col-md-5 volunteer-img"><img src="img/logo.png" /></div>
 				</div>
-				<div class="col-md-5">
+				<div class="col-md-4 iaev">
 					<p>IAEAVolonteer</p>
 				</div>
 			</div>
 		</div>
 	</div>
 
-	<div class="row">
-		<div class="col-md-12">
-			<div class="col-md-2">
-				<ul>
-					<li>students</li>
-					<li>faculty</li>
-					<li>staff</li>
-					<li>alumni</li>
-					<li>parents</li>
-					<li>visit</li>
-				</ul>
+	<div class="row footer-area">
+		<div class="container">
+			
+			<div class="col-md-12">
+				<div class="col-md-2 footer-links">
+					<ul>
+						<li>students</li>
+						<li>faculty</li>
+						<li>staff</li>
+						<li>alumni</li>
+						<li>parents</li>
+						<li>visit</li>
+					</ul>
+				</div>
+				<div class="col-md-2 footer-links">
+					<ul>
+						<li>directory</li>
+						<li>maps</li>
+						<li>quick links</li>
+						<li>visit</li>
+						<li>staff</li>
+						<li>make a gift</li>
+					</ul>
+				</div>
+				<div class="col-md-4 middle-logo">
+					<img src="img/logo.png" />
+				</div>
+				<div class="col-md-2 footer-links">
+					<ul>
+						<li>job opportunties</li>
+						<li>emergency info</li>
+						<li>xMail</li>
+						<li>title IX</li>
+						<li>non-discrimination</li>
+						<li>statement</li>
+					</ul>
+				</div>
+				<div class="col-md-2 footer-links">
+					<ul>
+						<li>emergency info</li>
+						<li>xMail</li>
+						<li>title IX</li>
+						<li>non-discrimination</li>
+						<li>statement</li>
+						<li>contact us</li>
+					</ul>
+				</div>
 			</div>
-			<div class="col-md-2">
-				<ul>
-					<li>directory</li>
-					<li>maps</li>
-					<li>quick links</li>
-					<li>visit</li>
-					<li>staff</li>
-					<li>make a gift</li>
-				</ul>
-			</div>
-			<div class="col-md-4">
-				<img src="" />
-			</div>
-			<div class="col-md-2">
-				<ul>
-					<li>job opportunties</li>
-					<li>emergency info</li>
-					<li>xMail</li>
-					<li>title IX</li>
-					<li>non-discrimination</li>
-					<li>statement</li>
-				</ul>
-			</div>
-			<div class="col-md-2">
-				<ul>
-					<li>emergency info</li>
-					<li>xMail</li>
-					<li>title IX</li>
-					<li>non-discrimination</li>
-					<li>statement</li>
-					<li>contact us</li>
-				</ul>
-			</div>
+
 		</div>
-		<div class="col-md-12">
-			<div class="">
-				<span>
-					<i class="fa fa-facebook"></i>
-					<i class="fa fa-twitter"></i>
-					<i class="fa fa-facebook"></i>
-					<i class="fa fa-twitter"></i>
-				</span>
+		<div class="col-md-12 foot-below">
+			<div class="foot-social">
+				
+				<i class="fa fa-facebook"></i>
+				<i class="fa fa-twitter"></i>
+				<i class="fa fa-facebook"></i>
+				<i class="fa fa-twitter"></i>
+				
 			</div>
-			<div class="">
+			<div class="atcopy">
 				<p>&copy;2017 IAEAfrica</p>
 			</div>
 		</div>

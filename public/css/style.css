@@ -1,9 +1,14 @@
+body {
+  background: #eeeeee;
+}
+
 .top-header {
   background: #202020;
   padding-top: 7px;
   padding-bottom: 5px;
-  display: -webkit-box;
-  display: flex;
+  position: fixed;
+  width: 100%;
+  z-index: 999;
 }
 
 .top-header .top-header-links {
@@ -62,7 +67,9 @@
 .logo-area {
   background: url(../../img/bgbg.jpg);
   background-repeat: repeat-x;
-  padding: 30px 0px;
+  padding: 50px 0px;
+  position: relative;
+  margin-top: 50px;
 }
 
 .logo-area .logo-inner {
@@ -75,6 +82,7 @@
 
 .we-are {
   border-top: 10px solid #676767;
+  padding-bottom: 100px;
 }
 
 .we-are .who-are-round {
@@ -118,6 +126,129 @@
 
 .no-padding, .we-are .who-sect, .we-are .are-houser-right, .we-are .are-houser-left {
   padding: 0px !important;
+}
+
+.iaeheader {
+  text-align: center;
+  font-size: 45px;
+  padding: 20px 0px 50px;
+}
+
+.iaenews {
+  border-top: 8px solid #676767;
+  text-align: right;
+  padding-bottom: 100px;
+}
+
+.iaenews img {
+  width: 348px;
+  max-width: 100%;
+}
+
+.iaenews .excerpt {
+  height: 80px;
+  padding: 20px 0px;
+}
+
+.social-area {
+  background: #ccc;
+  padding-bottom: 100px;
+}
+
+.social-area .social-icon {
+  text-align: center;
+}
+
+.social-area .social-icon img {
+  margin-right: 40px;
+}
+
+.volunteers-area {
+  padding: 100px 0px;
+}
+
+.volunteers-area .volunteer-diff {
+  background: #e8b600;
+  padding: 20px;
+  height: 200px;
+  font-size: 15px;
+  text-align: left;
+  color: #fff;
+}
+
+.volunteers-area .volunteer-diff p {
+  margin-top: 40px;
+  font-size: 17px;
+}
+
+.volunteers-area .volunteer-img {
+  background: #380a55;
+  padding: 20px 0px;
+  text-align: center;
+  height: 200px;
+}
+
+.volunteers-area .volunteer-img img {
+  width: 230px;
+  border: 4px solid #fff;
+  padding: 20px;
+  margin-top: 25px;
+}
+
+.volunteers-area .iaev {
+  background: #380a55;
+  height: 200px;
+}
+
+.volunteers-area .iaev p {
+  text-align: center;
+  border: 4px solid #fff;
+  width: 211px;
+  padding: 7px;
+  font-size: 27px;
+  margin: 0 auto;
+  margin-top: 65px;
+  color: #fff;
+}
+
+.footer-area {
+  padding: 70px 0px 0px;
+  background: #3a3a3a;
+}
+
+.footer-area .footer-links ul {
+  border-right: 1px solid #ccc;
+}
+
+.footer-area .footer-links ul li {
+  list-style: none;
+}
+
+.footer-area .middle-logo {
+  text-align: center;
+}
+
+.footer-area .middle-logo img {
+  width: 210px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.footer-area .foot-below {
+  text-align: center;
+  border-top: 1px solid lemonchiffon;
+  padding-top: 5px;
+  margin-top: 30px;
+}
+
+.footer-area .foot-below .foot-social i {
+  margin-right: 10px;
+}
+
+.footer-area .foot-below .atcopy {
+  font-weight: bold;
+  margin-bottom: 2px;
+  margin-top: 5px;
 }
 
 /*# sourceMappingURL=style.css.map */
